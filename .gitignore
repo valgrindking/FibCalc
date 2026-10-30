@@ -1,6 +1,4 @@
-Fibonacci
 .*
-*.swp
-*.o
-*.i
-*.s
+build
+bin
+cmake-build-debug
